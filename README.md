@@ -1,7 +1,9 @@
 # Olá!! Seja bem-vindo!👋
 
 #Sobre mim
+
 🚀Meu nome é Vitor, tenho 29 anos, sou de Barra Mansa, atualmente cursando Sistemas de Informação
+
 🛠️ Construindo minha base em lógica de programação, algoritmos e desenvolvimento de software.
 
 # 📫 Contato
